@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+#details{
+    text-align:center;
+    width:250px;
+    height:250px;
+    background-color: #faecaa ;
+    padding:20px;
+}
+h4{
+    padding-bottom: 5px;
+}
+p{
+    font-size: 10px;
+    padding-bottom: 15px;
+}
+form{
+   margin: 10px;
+}
+.btn {
+    background:#3749bb;
+    border:2px solid #3749bb;
+    padding:0 20px;
+    height:25px;
+    line-height:15px;
+    font-size:10px;
+    color:#fff;
+    border-radius:4px;
+    text-align:center;
+}
+#in_1{
+    padding:5px;
+}
+#in_2{
+    padding:5px;
+}
+#head_details{
+    background-color:aliceblue;
+    width:300px;
+    height:350px;
+    padding-left: 25px;
+}
+#details_2{
+    font-size: 15px;
+    line-height:25px;
+}
+#price{
+    color: crimson;
+    padding-top: 25px;
+}
